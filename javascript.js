@@ -1,0 +1,1 @@
+const element = document. getElementsByClassName('span1'); element.style.textdecoration = 'underline';
